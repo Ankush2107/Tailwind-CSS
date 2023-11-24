@@ -10,3 +10,11 @@
 ```
 
 ### font-weight = font-medium/normal/bold....
+
+### Responsive Design
+
+```
+    <div class="text-center my-4">
+        <p class="text-white sm:text-red-700 md:text-green-500 lg:text-yellow-600">Lorem, ipsum dolor.</p>
+    </div>
+```
